@@ -1,0 +1,49 @@
+body{
+	font-family: helvetica;
+	margin:0;
+	padding:0;
+}
+
+
+header {
+	background: lightblue;
+	margin: auto;
+	text-align: center;
+	bac
+}
+
+.navigation_bar ul li{
+	display: inline-block;
+	margin-right: 20px;
+}
+.navigation_bar ul {
+	font-size: 20px;
+	margin:0;
+	padding:0;
+	list-style-type: none;	
+}
+
+
+.title {
+	font-size: 50px;
+	background-image: url("images/rainbow-lines3.png");
+	background-size: 800px;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 80px;
+}
+section{
+	margin: auto;
+	padding: 60px;
+	background: lightgray;
+	flex-direction: row;
+}
+
+.model{
+	text-align: center;
+}
+
+footer{
+	background: lightblue;
+	padding: 10px 20px;
+}
